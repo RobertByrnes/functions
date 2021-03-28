@@ -9,8 +9,6 @@ $nesting = 0;
 print_r(freqCount($inputArray, 1));
 
 # abacaba()
-// $alphabet = "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z";
-// define('BUILD_ARRAY', explode(',', $alphabet));
 // echo abacaba(18);
 
 # iterativeFactorial()
